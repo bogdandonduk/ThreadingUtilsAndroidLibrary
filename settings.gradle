@@ -1,0 +1,4 @@
+
+rootProject.name = "ThreadingUtilsAndroidLibrary"
+include ':app'
+include ':ThreadingUtilsAndroid'
